@@ -1,0 +1,1 @@
+Visual studio  code içerisinde yazıldı Eclipse test edildi bir problem yok.
